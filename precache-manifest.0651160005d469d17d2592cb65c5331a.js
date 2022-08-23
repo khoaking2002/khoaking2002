@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/khoaking2002/static/media/khoa.c7590874.jpg"
   },
   {
-    "revision": "9dea3f1add263c9030dda130770472d4",
-    "url": "/khoaking2002/static/media/SVN-Astronout.9dea3f1a.otf"
-  },
-  {
     "revision": "93309940c759cc5ce2fcebc45a1b497c",
     "url": "/khoaking2002/static/media/SVN-Quattrocento Bold.93309940.otf"
+  },
+  {
+    "revision": "9dea3f1add263c9030dda130770472d4",
+    "url": "/khoaking2002/static/media/SVN-Astronout.9dea3f1a.otf"
   },
   {
     "revision": "bffb928dbc625d9d6d22d1d5b6f63508",
