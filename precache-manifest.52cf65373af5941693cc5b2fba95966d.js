@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "94c27889e98e8820a38a",
-    "url": "/khoaking2002/static/css/main.8bdbd6ef.chunk.css"
+    "revision": "33da182ce77107b3e8e0",
+    "url": "/khoaking2002/static/css/main.257ec38f.chunk.css"
   },
   {
-    "revision": "94c27889e98e8820a38a",
-    "url": "/khoaking2002/static/js/main.94c27889.chunk.js"
+    "revision": "33da182ce77107b3e8e0",
+    "url": "/khoaking2002/static/js/main.33da182c.chunk.js"
   },
   {
-    "revision": "41211fcf000cf3a9973c",
-    "url": "/khoaking2002/static/js/1.41211fcf.chunk.js"
+    "revision": "709d58a229027795f766",
+    "url": "/khoaking2002/static/js/1.709d58a2.chunk.js"
   },
   {
     "revision": "ff69b631e9f71632f91a",
     "url": "/khoaking2002/static/js/2.ff69b631.chunk.js"
   },
   {
-    "revision": "5554299457e1a254127a",
-    "url": "/khoaking2002/static/js/runtime~main.55542994.js"
+    "revision": "9ced5cb93450a4ce88a8",
+    "url": "/khoaking2002/static/js/runtime~main.9ced5cb9.js"
   },
   {
     "revision": "c7590874a3bb99c9b5ec409e6658b0d7",
@@ -32,7 +32,11 @@ self.__precacheManifest = [
     "url": "/khoaking2002/static/media/SVN-Astronout.9dea3f1a.otf"
   },
   {
-    "revision": "bffb928dbc625d9d6d22d1d5b6f63508",
+    "revision": "8bb1c0b0dfb679d7868404b5bcc1ccac",
+    "url": "/khoaking2002/static/media/anhgame2.8bb1c0b0.png"
+  },
+  {
+    "revision": "681b0831676d94c324f4d66038067978",
     "url": "/khoaking2002/index.html"
   }
 ];
