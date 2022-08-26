@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "33da182ce77107b3e8e0",
-    "url": "/khoaking2002/static/css/main.257ec38f.chunk.css"
+    "revision": "b6e29ca8615c3eb52a61",
+    "url": "/khoaking2002/static/css/main.da8be075.chunk.css"
   },
   {
-    "revision": "33da182ce77107b3e8e0",
-    "url": "/khoaking2002/static/js/main.33da182c.chunk.js"
+    "revision": "b6e29ca8615c3eb52a61",
+    "url": "/khoaking2002/static/js/main.b6e29ca8.chunk.js"
   },
   {
     "revision": "709d58a229027795f766",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/khoaking2002/static/media/anhgame2.8bb1c0b0.png"
   },
   {
-    "revision": "681b0831676d94c324f4d66038067978",
+    "revision": "aab7043d7e99e27343c057369ae0709d",
     "url": "/khoaking2002/index.html"
   }
 ];
