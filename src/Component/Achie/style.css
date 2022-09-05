@@ -1,0 +1,42 @@
+@keyframes example {
+    from {background-color: #F1EFDC}
+    to {transform: scale(1.1);background-color:#dbce5b}
+  }
+.Achi_card{
+    background-color: #F1EFDC;
+    border-color:black;
+    border-radius: 2rem;
+    width: 50%;
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+.main_image{
+    width:90%;
+    margin-top: 5%;
+    margin-left: 5%; 
+    border-radius: 15%;
+}
+.caption{
+	padding-left: 3rem;
+    font-size: 200%;
+}
+.main_text{
+    margin-top: 0rem;
+    word-wrap: break-word;
+    padding-right: 5%;
+    padding-left: 2rem;
+}
+.link{
+    margin-top: 1rem;
+    background-color: #D36B00;
+    border-color: white;
+    height: 2.5rem;
+    align-items: center;
+    border-radius: 1.5rem;
+    margin-bottom: 2rem;
+}
+.Achi_card:hover{
+    animation-name: example;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
